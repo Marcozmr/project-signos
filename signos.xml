@@ -1,1 +1,158 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é o primeiro signo do zodíaco. 
+        Datas: 21 de março a 19 de abril. 
+        Planeta Regente: Marte. 
+        Constelação: Áries (o Carneiro). 
+        Como é Conhecido: O Pioneiro Impulsivo. 
+        Elemento: Fogo. 
+        Modalidade: Cardinal. 
+        Características Principais: Áries é corajoso, enérgico e líder natural, iniciando projetos com entusiasmo, mas pode ser impulsivo e impaciente.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é o segundo signo do zodíaco. 
+        Datas: 20 de abril a 20 de maio. 
+        Planeta Regente: Vênus. 
+        Constelação: Touro (o Touro). 
+        Como é Conhecido: O Teimoso Amante do Conforto. 
+        Elemento: Terra. 
+        Modalidade: Fixo. 
+        Características Principais: Touro é leal, paciente e valoriza beleza e estabilidade, buscando segurança, mas pode ser teimoso e resistente a mudanças.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é o terceiro signo do zodíaco. 
+        Datas: 21 de maio a 20 de junho. 
+        Planeta Regente: Mercúrio. 
+        Constelação: Gêmeos (os Gêmeos). 
+        Como é Conhecido: O Curioso Comunicador. 
+        Elemento: Ar. 
+        Modalidade: Mutável. 
+        Características Principais: Gêmeos é versátil, inteligente e adora trocar ideias, sendo adaptável, mas pode ser inconstante e superficial.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é o quarto signo do zodíaco. 
+        Datas: 21 de junho a 22 de julho. 
+        Planeta Regente: Lua. 
+        Constelação: Câncer (o Caranguejo). 
+        Como é Conhecido: O Sensível Protetor. 
+        Elemento: Água. 
+        Modalidade: Cardinal. 
+        Características Principais: Câncer é emocional, intuitivo e protetor, cuidando da família com devoção, mas pode ser reservado ou superprotetor.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é o quinto signo do zodíaco. 
+        Datas: 23 de julho a 22 de agosto. 
+        Planeta Regente: Sol.
+        Constelação: Leão (o Leão). 
+        Como é Conhecido: O Carismático Rei do Palco. 
+        Elemento: Fogo. 
+        Modalidade: Fixo. 
+        Características Principais: Leão é confiante, generoso e ama ser o centro das atenções, inspirando com liderança, mas pode ser orgulhoso ou dramático.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é o sexto signo do zodíaco. 
+        Datas: 23 de agosto a 22 de setembro. 
+        Planeta Regente: Mercúrio. 
+        Constelação: Virgem (a Virgem). 
+        Como é Conhecido: O Perfeccionista Analítico. 
+        Elemento: Terra. 
+        Modalidade: Mutável. 
+        Características Principais: Virgem é meticuloso, prático e confiável, focando em detalhes, mas pode ser excessivamente crítico consigo e com os outros.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é o sétimo signo do zodíaco. 
+        Datas: 23 de setembro a 22 de outubro. 
+        Planeta Regente: Vênus. 
+        Constelação: Libra (a Balança). 
+        Como é Conhecido: O Diplomático Amante da Harmonia. 
+        Elemento: Ar. 
+        Modalidade: Cardinal. 
+        Características Principais: Libra é charmoso, sociável e busca equilíbrio e justiça, mas sua indecisão pode atrasar decisões importantes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é o oitavo signo do zodíaco. 
+        Datas: 23 de outubro a 21 de novembro. 
+        Planeta Regente: Plutão (tradicionalmente Marte). 
+        Constelação: Escorpião (o Escorpião). 
+        Como é Conhecido: O Misterioso Transformador. 
+        Elemento: Água. 
+        Modalidade: Fixo. 
+        Características Principais: Escorpião é intenso, apaixonado e intuitivo, promovendo transformações, mas pode ser reservado ou vingativo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é o nono signo do zodíaco. 
+        Datas: 22 de novembro a 21 de dezembro. 
+        Planeta Regente: Júpiter. 
+        Constelação: Sagitário (o Arqueiro). 
+        Como é Conhecido: O Aventureiro Otimista. 
+        Elemento: Fogo. Modalidade: Mutável. 
+        Características Principais: Sagitário é livre, otimista e ama explorar, inspirando com sua energia, mas pode ser impulsivo ou exagerado.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é o décimo signo do zodíaco. 
+        Datas: 22 de dezembro a 19 de janeiro. 
+        Planeta Regente: Saturno. 
+        Constelação: Capricórnio (o Bode). 
+        Como é Conhecido: O Disciplinado Escalador. 
+        Elemento: Terra. 
+        Modalidade: Cardinal. 
+        Características Principais: Capricórnio é ambicioso, prático e disciplinado, alcançando metas, mas pode ser rígido ou emocionalmente distante.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é o décimo primeiro signo do zodíaco. 
+        Datas: 20 de janeiro a 18 de fevereiro. 
+        Planeta Regente: Urano (tradicionalmente Saturno). 
+        Constelação: Aquário (o Aguadeiro). 
+        Como é Conhecido: O Visionário Excêntrico. 
+        Elemento: Ar. 
+        Modalidade: Fixo. 
+        Características Principais: Aquário é inovador, independente e humanitário, promovendo mudanças, mas pode parecer aloof ou imprevisível.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é o décimo segundo signo do zodíaco. 
+        Datas: 19 de fevereiro a 20 de março. 
+        Planeta Regente: Netuno (tradicionalmente Júpiter). 
+        Constelação: Peixes (os Peixes). 
+        Como é Conhecido: O Intuitivo Sonhador. 
+        Elemento: Água. 
+        Modalidade: Mutável. 
+        Características Principais: Peixes é empático, criativo e intuitivo, conectando-se com compaixão, mas pode ser escapista ou idealista demais.</descricao>
+    </signo>
+</signos>
